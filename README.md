@@ -1,2 +1,2 @@
 # rock-paper-scissors
- Rock, Paper, Scissors Game in Vanilla JS
+This is a Rock, Paper, Scissors Game in Vanilla JS with animations and a score keeper
